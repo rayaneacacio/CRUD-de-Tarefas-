@@ -3,7 +3,7 @@ API em Node.js para realizar o gerenciamento completo de tarefas (CRUD)
 ```bash
 yarn       # Instala as dependências
 yarn dev   # Inicia o servidor
-yarn csv   # Importa tarefas via CSV e faz requisições `POST` no database
+yarn csv   # Importa tarefas via CSV para a API
 ```
 ---
 
